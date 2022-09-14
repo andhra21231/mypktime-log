@@ -19,10 +19,10 @@ Maybe in new day, its will be non-auto repo, but after i found the godammit API,
 
 ## LogLink
 
-Blog Application : [Click Here](https://github.com/andhra21231/mypktime-log)
+Blog Application 📰: [Click Here](https://github.com/andhra21231/mypktime-log)
 
-Podcast Application : [Click Here](https://github.com/andhra21231/mypktime-log)
+Podcast Application 🎙: [Click Here](https://github.com/andhra21231/mypktime-log)
 
-MyPKTime Chat : [Click Here](https://github.com/andhra21231/mypktime-log)
+MyPKTime Chat 💬: [Click Here](https://github.com/andhra21231/mypktime-log)
 
-Forum Application : [Click Here](https://github.com/andhra21231/mypktime-log)
+Forum Application 🌍: [Click Here](https://github.com/andhra21231/mypktime-log)
