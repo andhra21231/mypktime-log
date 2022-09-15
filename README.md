@@ -8,12 +8,18 @@ This Will Be The Document For Everything That I Do in MyPKTime. No Matter How St
 
 Maybe in new day, its will be non-auto repo, but after i found the godammit API, yes its will be Auto!
 
+### Announcement 
+
+> After All Consideration, We Will Move Our Datacenter to idCloudhost, That have more stronger Dataservice. We Will Down 1-3 Days For Move Our Data And Create The New Looks And Connection
+
+> We Will Start Move Our Server At 15 September 2022 Night.
+
 ## Availability
 
 | Application Name | Availability | Notes |
 | ----------- | ----------- | ----------- |
-| Blog Application | ✅ | |
-| Podcast Application | ✅ | |
+| Blog Application | ⚠ | Move To Our New Server |
+| Podcast Application | ⚠ | Move To Our New Server |
 | MyPKTime Chat | ⚠ | Its Under Development And Needs some New Changes In This Application |
 | Forum Application | 🟥 | Under Development |
 
